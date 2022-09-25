@@ -1,0 +1,12 @@
+{
+	"folders": [
+		{
+			"path": "."
+		},
+		{
+			"name": "devops-netology",
+			"path": "../devops-netology"
+		}
+	],
+	"settings": {}
+}
