@@ -8,4 +8,4 @@
 
 ![arryas.png](https://github.com/tsteplova/Java-netology/blob/master/pictures/arryas.png?raw=true)
 
-**3. **
+3.
